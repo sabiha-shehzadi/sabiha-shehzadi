@@ -4,13 +4,13 @@ Hi 👋 My name is Sabiha Khan
 Social Media Marketer + Network Administrator
 ---------------------------------------------
 
-⤷ I am an Information Technology student at PUGC (5th Semester), mainly focusing on SEO, SMM, Leads Generation, Brand Identity and Anlaytics and Reports. I have 1 year of experience in Computer Networking using Cisco Packet Tracer.
+⤷ I am an Information Technology student at PUGC (7th Semester), mainly focusing on SEO, SMM, Leads Generation, Brand Identity and Anlaytics and Reports. I have 1 year of experience in Computer Networking using Cisco Packet Tracer as well as 3 years in social media accounts handling.
 
 <img src="https://komarev.com/ghpvc/?username=sabiha-shehzadi&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="sabiha-shehzadi"/>
 
-- 🌱 I’m currently learning **Social Media Marketing**.
-- 🤔 I’m looking for help with **Digital Marketing, SEO and Wordpress Development**.
-- 💬 Ask me about **Computer Networks, SMM, Leads Generation, Brand Identity**.
+- 🌱 I’m currently learning **Matlab** + **asp.net mvc core**.
+- 🤔 I’m looking for help with **asp.net mvc core fyp**.
+- 💬 Ask me about **Computer Networks, SMM, Leads Generation, Brand Identity , Matlab**.
 - 📫 How to reach me: **shehzadisabiha3425@gmail.com**
 - 📄 Know about my experiences [LinkedIn/sabiha-shehzadi/](https://www.linkedin.com/in/sabiha-shehzadi/)
 
