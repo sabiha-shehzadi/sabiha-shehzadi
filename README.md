@@ -1,21 +1,33 @@
 Hi 👋 My name is Sabiha Khan
 =============================
-Aspiring Project Manager | Information Technology Student | Agile Enthusiast 
----------------------------------------------
-🎓 Education:
-Information Technology (8th Semester) | Punjab University Gujranwala Campus (PUGC)
----------------------------------------------
-💼 Professional Summary:
----------------------------------------------
-Motivated and detail-oriented Information Technology student specializing in Agile Project Management.
-I bring 3+ years of experience in Social Media Management and am actively building my expertise in Project Management using modern collaboration tools like Jira Cloud and Monday.com.
-In addition, I am developing full-stack web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js) to create dynamic and scalable solutions.
 
-🚀 Currently Exploring:
----------------------------------------------
-MERN Stack (Full-Stack Web Development)
+💡 **Aspiring AI Project Manager & Research Assistant** with a passion for **automation, machine learning, and project coordination**.  
+🎯 My goal is to bridge the gap between **research, development, and project management** in AI-driven solutions.  
 
-Agile Methodologies using Jira Cloud and Monday.com
+## 🚀 What I Do
+- 🤖 Exploring **AI & Machine Learning** concepts  
+- 📊 Research & documentation for AI projects  
+- 🔄 Learning **automation tools & workflows**  
+- 📂 Managing and structuring projects for **scalability & efficiency**  
+
+## 🛠️ Tech & Tools
+- Python 
+- Git & GitHub | JIRA | Trello | Monday.com | Notion
+- Project Management fundamentals  
+- Networking (Cisco Packet Tracer, CCNA basics)  
+
+## 🌱 Currently Learning
+- AI project management best practices  
+- Research methodologies in AI/ML  
+- Automation workflows  
+
+## 🤝 Let’s Collaborate
+I’m open to collaborating on:
+- AI & ML research projects  
+- Automation workflows  
+- AI-driven project management tools  
+
+📫 Reach me: [LinkedIn](linkedin/sabiha-shehzadi) | [Email](mailto:shehzadisabiha3425@gmail.com)
 
 🤝 Looking to Collaborate On:
 ---------------------------------------------
@@ -31,7 +43,7 @@ Social Media Branding and Lead Generation Strategies
 
 Agile Project Management (Scrum, Kanban)
 
-Jira Cloud & Monday.com
+Jira Cloud, Confluence & Monday.com
 
 MERN Stack Development (MongoDB, Express.js, React.js, Node.js)
 
