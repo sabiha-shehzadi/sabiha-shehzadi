@@ -41,8 +41,8 @@
 * ☁️ **AWS S3 Basics (Coursera Project Network)**
   [🔗 Verify Certificate](https://coursera.org/verify/YX07PZAJVLOQ)
 
-* 📖 Currently taking **Kaggle Course (AI/ML modules)**
-
+* 📖 **Kaggle Course (AI/ML modules)**
+  [🔗 Verify Certificate](https://www.kaggle.com/learn/certification/sabihashehzadi/python)
 ---
 
 ## 🤝 Let’s Collaborate
