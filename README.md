@@ -73,13 +73,7 @@ I’m open to collaborating on:
 
 ---
 
-## 📊 GitHub Insights
 
-<a href="http://www.github.com/sabiha-shehzadi"> <img src="https://github-readme-stats.vercel.app/api?username=sabiha-shehzadi&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true" alt="sabiha-shehzadi's GitHub stats" /> </a> <a href="http://www.github.com/sabiha-shehzadi"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabiha-shehzadi&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> </a> 
-
-<a href="http://www.github.com/sabiha-shehzadi" align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabiha-shehzadi&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /> </a>
-
----
 
 ## 🌐 Social Profiles
 
