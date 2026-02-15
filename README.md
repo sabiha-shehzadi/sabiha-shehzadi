@@ -1,84 +1,149 @@
-# Hi 👋 My name is Sabiha Shehzadi
+# Hi 👋 I'm Sabiha Shehzadi  
 
-\=============================
-
-💡 **AI Engineer | Computer Vision & NLP Specialist**
-🚀 **Freelance AI Solutions Developer**
-
-I bridge the gap between complex data and business value. I specialize in building **production-ready Machine Learning models**, **RAG pipelines**, and **intelligent automation workflows**.
+💡 **AI Engineer | Generative AI & Computer Vision Specialist**  
+🚀 Building Production-Ready AI Systems | RAG Architect | Automation Enthusiast  
 
 ---
 
-## 🚀 What I Do
+## 🌌 About Me  
 
-*   🤖 **Computer Vision:** Building real-time detection systems using OpenCV & CNNs.
-*   🗣️ **NLP & GenAI:** Developing "Chat with Data" applications using LangChain & RAG.
-*   ⚡ **Automation:** Creating AI agents and workflow automations using **n8n** & Python.
-*   🌐 **Deployment:** Serving models via **FastAPI** and building UIs with **Streamlit**.
+I design and deploy intelligent AI systems that transform complex data into practical business solutions.
 
----
-
-## 🛠️ Tech & Tools
-
-| Domain | Tools & Frameworks |
-| :--- | :--- |
-| **Languages** | Python, SQL |
-| **AI & ML** | PyTorch, TensorFlow, OpenCV, Scikit-Learn |
-| **NLP & GenAI** | LangChain, Hugging Face, OpenAI API, RAG, ChromaDB |
-| **Deployment** | FastAPI, Streamlit, Docker |
-| **Automation** | n8n, GitHub Actions, AWS (S3, EC2 Basics) |
+- 🔭 Currently building **Generative AI & RAG-based applications**
+- 🤝 Open to collaborating on **End-to-End RAG Pipelines & AI Document Assistants**
+- 🧠 Exploring **Multi-Modal RAG, AI Agents & Reinforcement Learning**
+- ⚙️ Interested in **Vector DB Optimization (ChromaDB) & Production Scaling**
+- 💬 Ask me about **GenAI, LangChain, Streamlit, FastAPI & AI Automation**
+- ⚡ I love turning complex AI models into user-friendly applications  
 
 ---
 
-## 🏆 Featured Projects
+# 🚀 What I Do  
 
-### 1. 👁️ [Real-Time Age & Gender Prediction](LINK_TO_REPO)
-**Domain:** Computer Vision
-*   Designed a real-time demographic analysis system using custom **CNNs** and **OpenCV**.
-*   Achieved **90%+ accuracy** on the UTKFace dataset.
-*   **Tech:** Python, TensorFlow/Keras, Haar Cascades.
+### 🤖 Computer Vision
+- Real-time detection systems using OpenCV & CNNs  
+- Custom Deep Learning models for automation  
 
-### 2. 📄 [Intelligent Document Assistant (RAG)](LINK_TO_REPO)
-**Domain:** NLP & Generative AI
-*   A "Chat with your PDF" tool allowing businesses to query documents in natural language.
-*   Reduced manual document search time by **40%**.
-*   **Tech:** LangChain, OpenAI API, ChromaDB, Streamlit.
+### 🗣️ NLP & Generative AI
+- Retrieval-Augmented Generation (RAG) pipelines  
+- "Chat with Your Data" applications  
+- AI-powered document assistants  
 
-### 3. 📉 [Customer Churn Prediction Engine](LINK_TO_REPO)
-**Domain:** Predictive Analytics
-*   End-to-end ML pipeline to predict customer attrition.
-*   Deployed as a REST API for real-time scoring.
-*   **Tech:** Scikit-Learn, FastAPI, XGBoost.
+### ⚡ AI Automation
+- AI Agents using Python & n8n  
+- Workflow automation & integrations  
 
----
-
-## 📚 Certifications
-
-*   🎓 **NAVTTC** — AI (Machine Learning & Deep Learning)
-*   ☁️ **AWS** — S3 Basics (Coursera Project Network)
-*   🐍 **Google** — Crash Course on Python
-*   📊 **Kaggle** — Python Programming
-*   📜 **Google Career Certificate** — Python Automation
+### 🌐 Deployment & Scaling
+- FastAPI model serving  
+- Streamlit AI dashboards  
+- Docker containerization  
+- AWS deployment basics  
 
 ---
 
-## 🤝 Let’s Collaborate
+# 🛠️ Tech Stack  
 
-I’m open to collaborating on:
-*   End-to-end RAG (Retrieval-Augmented Generation) projects.
-*   Computer Vision for retail or security.
-*   Business Process Automation using AI Agents.
+## 👨‍💻 Languages
+Python | SQL | C++ | JavaScript 
 
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/sabiha-shehzadi) | [Email](mailto:shehzadisabiha3425@gmail.com)
+## 🧠 AI & ML
+PyTorch | TensorFlow | Keras | OpenCV | Scikit-Learn | XGBoost  
+
+## 🗣️ NLP & GenAI
+LangChain | Hugging Face | OpenAI API | RAG | ChromaDB  
+
+## 🌍 Web & Deployment
+FastAPI | Streamlit | Django | Flask | React | TailwindCSS  
+
+## 🗄️ Databases
+MongoDB | MySQL | SQLite  
+
+## ⚙️ DevOps & Tools
+Docker | Git | GitHub | GitLab | AWS (S3, EC2 Basics) | Azure | Render | Vercel  
+
+## 📊 Data & Visualization
+Pandas | NumPy | Matplotlib | Plotly | Power BI  
+
+## 🧰 Productivity
+Jira | Confluence | Notion | Postman | Trello  
 
 ---
 
+# 🏆 Featured Projects  
 
+## 👁️ Real-Time Age & Gender Prediction  
+**Domain:** Computer Vision  
 
-## 🌐 Social Profiles
+- Built real-time demographic analysis system  
+- 90%+ accuracy on UTKFace dataset  
+- Haar Cascades + CNN Architecture  
 
-<p align="left"> 
-<a href="https://github.com/sabiha-shehzadi" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </a> 
-<a href="https://www.linkedin.com/in/sabiha-shehzadi" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </a> 
-<a href="https://stackoverflow.com/users/21424002/sabiha-shehzadi" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </a> 
-</p>
+**Tech:** Python, TensorFlow, OpenCV  
+
+---
+
+## 📄 Intelligent Document Assistant (RAG)  
+
+- "Chat with your PDF" AI system  
+- Reduced manual document search time by 40%  
+- Context-aware retrieval with embeddings  
+
+**Tech:** LangChain, OpenAI API, ChromaDB, Streamlit  
+
+---
+
+## 📉 Customer Churn Prediction Engine  
+
+- End-to-end ML pipeline  
+- REST API deployment for real-time scoring  
+
+**Tech:** Scikit-Learn, XGBoost, FastAPI  
+
+---
+
+# 📚 Certifications  
+
+- 🎓 NAVTTC — AI (Machine Learning & Deep Learning)  
+- ☁️ AWS — S3 Basics  
+- 🐍 Google — Crash Course on Python  
+- 📊 Kaggle — Python Programming  
+- 📜 Google Career Certificate — Python Automation  
+
+---
+
+# 🏆 GitHub Trophies  
+
+![](https://github-profile-trophy.vercel.app/?username=sabiha-shehzadi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+# 🌐 Connect With Me  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sabiha-shehzadi  
+- 💻 GitHub: https://github.com/sabiha-shehzadi  
+- 📩 Email: shehzadisabiha3425@gmail.com  
+- ✍️ Medium: https://medium.com/@shehzadisabiha3425  
+- 💬 StackOverflow: https://stackoverflow.com/users/21424002  
+
+---
+
+# 🤝 Open for Collaboration  
+
+I’m actively open to collaborating on:
+
+- 🔹 End-to-End RAG Systems  
+- 🔹 AI-powered Document Assistants  
+- 🔹 Computer Vision Automation Projects  
+- 🔹 AI Agents & Workflow Automation  
+
+---
+# 💖 Support My Work  
+
+If you find my AI projects helpful or inspiring, you can support my work here:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/misskhan1914)
+
+Your support helps me build more open-source AI tools and educational content.
+
+---
+⭐ *"Engineering AI systems that don’t just work — but deliver measurable impact."*  
